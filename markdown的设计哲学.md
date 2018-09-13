@@ -11,4 +11,4 @@
 
 >>Markdown 不仅学习成本很低，而且还有一个最直接的优势就是 Markdown 文本本身的可读性就非常好，实际上大部分的 Markdown 使用者都是直接编辑 Markdown 文本，而不用去看它即时生成的样式页面。
 
->>虽然 Markdown 本身很简单，但归功于各个平台对于 Markdown 样式的支持和 Markdown 本身的语法特性，Markdown 的展示样式往往是高雅美观的。
+>>虽然 Markdown 本身很简单，但归功于各个平台对于 Markdown 样式的支持和 Markdown 本身的语法特性，Markdown 的展示样式是高雅美观的。
